@@ -1,0 +1,2 @@
+Dataset-I: https://www.kaggle.com/datasets/sujaykapadnis/pomegranate-fruit-diseases-dataset
+Dataset-II: https://www.kaggle.com/datasets/kumararun37/pomegranate-fruit-dataset
