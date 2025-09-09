@@ -1,0 +1,1 @@
+. We implemented a deep learning-based classification model enhanced with iterative refinement to ensure high accuracy in distinguishing pomegranate diseases. The model underwent rigorous optimization, including advanced hyperparameter tuning and progressive learning strategies. 
